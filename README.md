@@ -19,5 +19,4 @@ And a few other python package that you need to install are as:
 ## How to run the Script:
     python battery.py
 
-## Authon Name:
-Bharat Gupta
+
